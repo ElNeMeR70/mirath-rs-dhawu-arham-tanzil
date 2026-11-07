@@ -1,0 +1,10 @@
+[package]
+name = "mirath-rs-dhawu-arham-tanzil"
+version = "1.0.0"
+edition = "2021"
+description = "Dhawu Al-Arham Extended Relatives Inheritance Solver (Ahl Al-Tanzil & Ahl Al-Qarabah)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "mirath_rs_dhawu_arham_tanzil"
+path = "main.rs"
